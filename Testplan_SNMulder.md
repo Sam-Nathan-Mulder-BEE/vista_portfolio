@@ -208,7 +208,7 @@ De toegankelijkheidstest zijn gebaseerd op de WCAG 2.1 richtlijnen, niveau A. Zi
 | Agenda bevat geen items (toevallig leeg).                          | Dit kan ik niet testen; in rapport vermelden dat agenda niet gevuld was op moment van testen.                                                           |
 | Geen toegang tot bepaalde browsers (Safari).                       | Test alleen in beschikbare browsers en noteer beperking.                                                                                                 |
 | Playwright-scripts falen door wijzigingen in de website.           | Scripts onderhouden tijdens het testen; bij grote wijzigingen de verwachtingen bijstellen en opnieuw testen.                                            |
-| Beperkte tijd door onverwachte bevindingen.                        | Prioriteiten stellen: eerst de kernfunctionaliteiten (lid worden, zaal huren, agenda) testen, daarna de niet-functionele aspecten.                      |
+| Beperkte tijd door onverwachte bevindingen.                        | Prioriteiten stellen: eerst de kernfunctionaliteiten (lid worden, zaal huren) testen, daarna de niet-functionele aspecten.                      |
 
 
 
