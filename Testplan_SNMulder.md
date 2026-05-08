@@ -55,13 +55,13 @@ De toegankelijkheid van de website wordt handmatig en automatisch (Playwright) g
 
 Er zijn meerdere [uitzonderingen op de EAA wet](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882), zo hoeven alleen overheden en bedrijven zich aan deze wet te houden, en alleen bedrijven of commerciële praktijken van een bepaalde grootte. Of de Cultuurwerkplaats wettelijk verplicht is zich aan deze eisen te houden is niet zeker. Wel is toetsen aan de toegankelijkheidseisen een mooie kans om in kaart te brengen hoe de webiste, en dus cultuur in Wageningen, nog toegankelijker gemaakt kan worden voor de inwoners van Wageningen. Ook kan het zijn dat (delen van) de website zich nu of in de toekomst wel degelijk aan deze wet moeten voldoen. Bijvoorbeeld het deel van de website dat ruimtes verhuurt, omdat dit gezien kan worden als commerciële activiteit. 
 
-Alle toegankelijkheids testcases opgenomen in het testverslag zijn van niveau A, gekeken naar welke het meest relevant zijn voor de website. Zie ook de Appendix (link) voor de volledige, officiële richtlijnen waarop de testcases gebaseerd zijn. De testcases in dit rapport zijn een interpretatie van de officiële wetgeving, dit rapport is geen vervanging van een officiële toetsing op toegankelijkheid.
+Alle toegankelijkheids testcases opgenomen in het testverslag zijn van niveau A, gekeken naar welke het meest relevant zijn voor de website. Zie ook de Appendix voor de volledige, officiële richtlijnen waarop de testcases gebaseerd zijn. De testcases in dit rapport zijn een interpretatie van de officiële wetgeving, dit rapport is geen vervanging van een officiële toetsing op toegankelijkheid.
 
 
 
 ### Veiligheid
 
-De veiligheid test ik handmatig door te controleren op **HTTPS-gebruik**. Veiligheid is een van de belangrijkste eisen van elke website. (uitleg?)
+De veiligheid test ik handmatig door te controleren op **HTTPS-gebruik**. Veiligheid is een van de belangrijkste eisen van elke website.
 
 ### Laadsnelheid
 
